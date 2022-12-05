@@ -1,0 +1,11 @@
+body {
+    height: 100%;
+    background-color: #1e1e1e;
+    margin: 0;
+
+    font-family: "SF UI Display", sans-serif;
+    text-align: left;
+    outline: 0;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+}
